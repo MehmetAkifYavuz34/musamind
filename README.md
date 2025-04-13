@@ -1,4 +1,19 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+
+# Libraries
+- "@react-navigation/native": "^7.1.6",
+- "@react-navigation/native-stack": "^7.3.10",
+- "iconsax-react-native": "^0.0.8",
+- "react": "19.0.0",
+-  "react-native": "0.79.0",
+- "react-native-gifted-charts": "^1.4.59",
+- "react-native-linear-gradient": "^2.8.3",
+- "react-native-safe-area-context": "^5.3.0",
+- "react-native-screens": "^4.10.0",
+- "react-native-svg": "^15.11.2",
+- "react-redux": "^9.2.0",
+- "redux": "^5.0.1",
+- "redux-thunk": "^3.1.0"
+  
 
 # Getting Started
 
