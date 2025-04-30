@@ -15,6 +15,10 @@
 - "redux-thunk": "^3.1.0"
   
 
+https://github.com/user-attachments/assets/9aaa4b1b-7e3b-44ff-81b6-3c1b6d3a09b9
+
+
+
 # Getting Started
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
@@ -73,7 +77,7 @@ npm run ios
 yarn ios
 ```
 
-https://github.com/user-attachments/assets/9aaa4b1b-7e3b-44ff-81b6-3c1b6d3a09b9
+
 
 
 
