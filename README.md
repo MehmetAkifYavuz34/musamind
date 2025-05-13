@@ -1,81 +1,39 @@
 
-# Libraries
-- "@react-navigation/native": "^7.1.6",
-- "@react-navigation/native-stack": "^7.3.10",
-- "iconsax-react-native": "^0.0.8",
-- "react": "19.0.0",
--  "react-native": "0.79.0",
-- "react-native-gifted-charts": "^1.4.59",
-- "react-native-linear-gradient": "^2.8.3",
-- "react-native-safe-area-context": "^5.3.0",
-- "react-native-screens": "^4.10.0",
-- "react-native-svg": "^15.11.2",
-- "react-redux": "^9.2.0",
-- "redux": "^5.0.1",
-- "redux-thunk": "^3.1.0"
+# Musamind
+https://github.com/user-attachments/assets/9aaa4b1b-7e3b-44ff-81b6-3c1b6d3a09b9
+## 📖 Project Description
+
+**Musamind** is a React Native note-taking application. It allows users to effortlessly create, edit, and manage their notes. With a clean and modern design, Musamind aims to enhance the daily note-taking experience while providing seamless functionality.
+
+## 🛠️ Technologies Used
+
+### Core Technologies:
+- **React Native**: For cross-platform mobile application development.
+- **JavaScript (78.5%)**: For functionality and logic.
+- **Kotlin (9.7%)** & **Swift (4.8%)**: For platform-specific optimizations.
+- **TypeScript (1%)**: For type safety and improved development experience.
+
+### Tools and Libraries:
+- **Redux Toolkit**: For state management.
+- **React Navigation**: For app navigation.
+- **Axios**: For API requests.
+- **Formik & Yup**: For form handling and validation.
+
+## 🌟 Features
+
+- **Create and Edit Notes**: Easily create and modify your notes.
+- **Categorized Notes**: Organize notes into categories.
+- **Dark Mode**: User-friendly dark mode for better readability.
+- **Offline Access**: Access your notes without an internet connection.
+
+
   
 
-https://github.com/user-attachments/assets/9aaa4b1b-7e3b-44ff-81b6-3c1b6d3a09b9
 
 
 
-# Getting Started
 
-> **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
-## Step 1: Start Metro
-
-First, you will need to run **Metro**, the JavaScript build tool for React Native.
-
-To start the Metro dev server, run the following command from the root of your React Native project:
-
-```sh
-# Using npm
-npm start
-
-# OR using Yarn
-yarn start
-```
-
-## Step 2: Build and run your app
-
-With Metro running, open a new terminal window/pane from the root of your React Native project, and use one of the following commands to build and run your Android or iOS app:
-
-### Android
-
-```sh
-# Using npm
-npm run android
-
-# OR using Yarn
-yarn android
-```
-
-### iOS
-
-For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
-
-The first time you create a new project, run the Ruby bundler to install CocoaPods itself:
-
-```sh
-bundle install
-```
-
-Then, and every time you update your native dependencies, run:
-
-```sh
-bundle exec pod install
-```
-
-For more information, please visit [CocoaPods Getting Started guide](https://guides.cocoapods.org/using/getting-started.html).
-
-```sh
-# Using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
 
 
 
